@@ -46,4 +46,4 @@ Use superuser credentials created using:
 python manage.py createsuperuser
 
 AUTHOR:
-Name: Kartik Budhraja
+Name: Vanshika Sharma
